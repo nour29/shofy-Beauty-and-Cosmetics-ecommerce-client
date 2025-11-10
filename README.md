@@ -68,9 +68,9 @@ Shofy Beauty & Cosmetics is a powerful and modern full stack eCommerce web appli
 
 ## Thank You for Choosing Shofy!
 
-We hope you find Shofy to be a powerful and effective solution for your eCommerce needs. Should you encounter
+I hope you find Shofy to be a powerful and effective solution for your eCommerce needs. Should you encounter
 
- any issues or have any questions, please feel free to reach out to our support team at swe.hamedhasan@gmail.com. Happy selling!
+ any issues or have any questions, please feel free to reach out to me at chezlalla@icloud.com. Happy selling!
 
 
 
