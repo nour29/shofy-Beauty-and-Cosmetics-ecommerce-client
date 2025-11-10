@@ -64,8 +64,15 @@ Shofy Beauty & Cosmetics is a powerful and modern full stack eCommerce web appli
 - **Google and Email Password-based Authentication:** Secure user accounts with authentication methods, including Google login and email-based password authentication.
 - **User Profile and Information Update:** Allow users to update their profile information, ensuring accurate and up-to-date data for future interactions.
 - **Powerful Payment Gateway Integration using Stripe:** Securely process payments with Stripe integration, providing a smooth and reliable shopping experience for customers.
-
-
+- 
+## Client Side Live Link
+https://shofy-beauty-cosmetics-ecommerce.vercel.app/
+## Server Side Live Link
+https://shofy-backend.vercel.app/
+## Client Side Repo
+https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-client.git
+## Server Side Repo
+https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-backend.git
 ## Thank You for Choosing Shofy!
 
 I hope you find Shofy to be a powerful and effective solution for your eCommerce needs. Should you encounter
